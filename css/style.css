@@ -333,13 +333,6 @@ section {
   font-size: 0.9rem;
   margin-bottom: 0.5rem;
 }
-.modal-portada {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 8px;
-  margin-bottom: 1rem;
-}
 
 .modal-subtitulo {
   color: var(--color-texto-suave);
